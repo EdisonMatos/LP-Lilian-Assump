@@ -391,7 +391,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É A DRA. LÍLIAN ASSUMPÇÃO",
+      miniTag: "QUEM É A DRA. LILIAN ASSUMPÇÃO",
       title: "Minha trajetória",
       subtitle:
         "Atendimento humano e estratégico para quem busca acolhimento e confiança",
